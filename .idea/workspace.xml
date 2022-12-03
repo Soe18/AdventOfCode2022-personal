@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e08929-3efe-487c-a948-c2f213eb48d8" name="Changes" comment="Second day push">
-      <change afterPath="$PROJECT_DIR$/src/SecondDay/SecondDay_part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondDay/SecondDay_part2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondDay/input.txt" afterDir="false" />
+    <list default="true" id="86e08929-3efe-487c-a948-c2f213eb48d8" name="Changes" comment="Third day push">
+      <change afterPath="$PROJECT_DIR$/src/ThirdDay/ThirdDay_part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdDay/ThirdDay_part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdDay/rucksacks.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,6 +53,7 @@
       <recent name="$PROJECT_DIR$/out/production/AdventOfCode-personal/FirstDay" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ThirdDay" />
       <recent name="SecondDay" />
       <recent name="" />
     </key>
@@ -65,6 +67,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669915116836</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second day push">
+      <created>1669994153361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669994153361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second day push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second day push" />
+    <MESSAGE value="Third day push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third day push" />
   </component>
 </project>
