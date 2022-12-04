@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e08929-3efe-487c-a948-c2f213eb48d8" name="Changes" comment="Third day push">
-      <change afterPath="$PROJECT_DIR$/src/ThirdDay/ThirdDay_part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdDay/ThirdDay_part2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdDay/rucksacks.txt" afterDir="false" />
+    <list default="true" id="86e08929-3efe-487c-a948-c2f213eb48d8" name="Changes" comment="Fourth day push">
+      <change afterPath="$PROJECT_DIR$/src/FourthDay/FourthDay_part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourthDay/FourthDay_part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourthDay/sections.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
       <recent name="$PROJECT_DIR$/out/production/AdventOfCode-personal/FirstDay" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FourthDay" />
       <recent name="ThirdDay" />
       <recent name="SecondDay" />
       <recent name="" />
@@ -74,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669994153361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Third day push">
+      <created>1670084877682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670084877682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second day push" />
     <MESSAGE value="Third day push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third day push" />
+    <MESSAGE value="Fourth day push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth day push" />
   </component>
 </project>
